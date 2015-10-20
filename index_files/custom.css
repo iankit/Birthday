@@ -1,0 +1,124 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:100,300);
+/*@import url(http://fonts.googleapis.com/css?family=Pacifico);*/
+@import url(http://fonts.googleapis.com/css?family=Cedarville+Cursive);
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+html,body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background:#131313;
+  overflow:hidden;
+}
+
+body{
+  background: url('../img/jyoti-cake.jpg') no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.inline-blocks > .block{
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+.image{
+  width: 100px;
+  border-radius: 180px;
+  border: 3px solid #fff;
+  margin-top: 22px;
+  margin-right: 40px;
+  box-sizing: border-box;
+  
+}
+
+.wishing{
+  font-family: 'Cedarville Cursive';
+}
+
+.by{
+  font-family: 'Indie Flower';
+  text-align: right;
+}
+
+.twenty-1{
+  font:100 70px/1px 'Josefin Sans';
+  color: #fff;
+  margin: 40px 0 20px 0;
+
+}
+
+.twenty-one{
+  font-size: 200px;
+  font-family: 'Josefin Sans';
+  font-weight: 100;
+  line-height: 180px;
+  color: #fff;
+  margin: 40px 0 20px 0;
+}
+
+.bday{
+  font-size: 24px;
+  color: #fff;
+  font-family: 'Josefin Sans';
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 70px;
+}
+
+.cover{
+  background: rgba(0,0,0,0.89);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top:0;
+  left: 0;
+  z-index: 999;
+}
+
+#can{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+
+.super-centered-container{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+span{
+  color: skyblue;
+  text-decoration: none;
+}
+
+.overlay-static{
+  position: relative;
+  z-index: 999;
+  margin-bottom: 100px;
+}
+
+
+
+/*
+https://farm2.staticflickr.com/1200/4552416851_cc44288c15_b.jpg*/
+/*https://farm8.staticflickr.com/7324/11961111616_01ffc8ab51_b.jpg*/
+/*https://farm5.staticflickr.com/4041/4695159468_5c0f60858e_b.jpg*/
+/*https://farm8.staticflickr.com/7433/16575126606_b5a1a5d0ae_b.jpg*/
+/*https://farm4.staticflickr.com/3145/2975846631_11fef6354d_b.jpg*/
+/*https://farm4.staticflickr.com/3079/3243085589_5206aa18f5_o.jpg*/
+/*https://farm8.staticflickr.com/7472/16088061335_1516919a01_b.jpg*/ /*best*/
+/*https://farm8.staticflickr.com/7097/7227319552_60ab4d1922_b.jpg*/
+
+/*https://farm5.staticflickr.com/4145/4953319015_b5cd6bee1b_b.jpg*/ /*Jyoti*/
+
+/*@keyframes type{ 
+  from { width: 0; } 
+} */
